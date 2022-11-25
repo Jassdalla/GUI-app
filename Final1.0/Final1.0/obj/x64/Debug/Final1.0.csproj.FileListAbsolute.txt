@@ -1,0 +1,11 @@
+C:\Users\jassd\source\repos\Final1.0\Final1.0\bin\x64\Debug\Final1.0.exe.config
+C:\Users\jassd\source\repos\Final1.0\Final1.0\bin\x64\Debug\Final1.0.exe
+C:\Users\jassd\source\repos\Final1.0\Final1.0\bin\x64\Debug\Final1.0.pdb
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1.0.csproj.AssemblyReference.cache
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1._0.Form1.resources
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1._0.Properties.Resources.resources
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1.0.csproj.GenerateResource.cache
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1.0.csproj.CoreCompileInputs.cache
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1.0.exe
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1.0.pdb
+C:\Users\jassd\source\repos\Final1.0\Final1.0\obj\x64\Debug\Final1.0.csproj.SuggestedBindingRedirects.cache
